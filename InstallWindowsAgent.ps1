@@ -1,5 +1,4 @@
-﻿
-# Create OSSecHub Home Folder
+﻿# Create OSSecHub Home Folder
 $folderName = "c:\ossechub\"
 mkdir -force  $folderName
 cd $folderName
